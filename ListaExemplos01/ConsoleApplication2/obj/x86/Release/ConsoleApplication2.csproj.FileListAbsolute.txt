@@ -1,0 +1,8 @@
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.exe
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.pdb
+G:\DSI\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+G:\DSI\ConsoleApplication1\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.pdb

@@ -1,0 +1,4 @@
+G:\DSI\ConsoleApplication1\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+G:\DSI\ConsoleApplication1\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.pdb

@@ -1,0 +1,14 @@
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Aluno_2\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\DSI\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\DSI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Não retirar\ConsoleApplication1 C#\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Não retirar\ConsoleApplication1 C#\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

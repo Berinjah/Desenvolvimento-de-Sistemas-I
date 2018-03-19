@@ -1,0 +1,8 @@
+G:\DSI\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+G:\DSI\ConsoleApplication1\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+G:\DSI\ConsoleApplication1\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb

@@ -1,0 +1,4 @@
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+D:\Não retirar\ConsoleApplication1 C#\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb

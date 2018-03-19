@@ -1,0 +1,8 @@
+G:\Escola C#\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Escola C#\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Escola C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Escola C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DSI\Escola\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\DSI\Escola\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\DSI\Escola\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DSI\Escola\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

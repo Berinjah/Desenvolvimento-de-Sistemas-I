@@ -1,0 +1,4 @@
+G:\Não retirar\Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Não retirar\Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Não retirar\Exercicios\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Não retirar\Exercicios\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

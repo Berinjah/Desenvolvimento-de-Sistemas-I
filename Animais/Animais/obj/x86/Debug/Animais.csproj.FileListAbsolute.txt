@@ -1,0 +1,5 @@
+D:\DSI\Animais\Animais\bin\Debug\Animais.exe
+D:\DSI\Animais\Animais\bin\Debug\Animais.pdb
+D:\DSI\Animais\Animais\obj\x86\Debug\Animais.csprojResolveAssemblyReference.cache
+D:\DSI\Animais\Animais\obj\x86\Debug\Animais.exe
+D:\DSI\Animais\Animais\obj\x86\Debug\Animais.pdb

@@ -28,7 +28,7 @@ namespace Animais
         }
         public override string ToString()
         {
-            return "Mamifero {" + "Raça=" + raca + ", cor do pelo=" + corPelo + "}";
+            return "Mamifero {" + "Peso=" + getPeso() + ", idade=" + getIdade() + ", membros=" + getMembros() + "\nRaça=" + raca + ", cor do pelo=" + corPelo + "}\n\n";
         }
     }
 }

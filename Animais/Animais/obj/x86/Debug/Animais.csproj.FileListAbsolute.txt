@@ -3,3 +3,8 @@ D:\DSI\Animais\Animais\bin\Debug\Animais.pdb
 D:\DSI\Animais\Animais\obj\x86\Debug\Animais.csprojResolveAssemblyReference.cache
 D:\DSI\Animais\Animais\obj\x86\Debug\Animais.exe
 D:\DSI\Animais\Animais\obj\x86\Debug\Animais.pdb
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\obj\x86\Debug\Animais.exe
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\obj\x86\Debug\Animais.pdb
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\bin\Debug\Animais.exe
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\bin\Debug\Animais.pdb
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\obj\x86\Debug\Animais.csprojResolveAssemblyReference.cache

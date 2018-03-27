@@ -19,7 +19,7 @@ namespace Animais
         }
         public override string ToString()
         {
-            return "Reptil {" + "Cor da escama=" + corEscama +"}";
+            return "Reptil {" + "Peso=" + getPeso() + ", idade=" + getIdade() + ", membros=" + getMembros() + "\nCor da escama=" + corEscama +"}\n\n";
         }
     }
 }

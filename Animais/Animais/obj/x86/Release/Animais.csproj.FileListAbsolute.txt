@@ -1,0 +1,4 @@
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\bin\Release\Animais.exe
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\bin\Release\Animais.pdb
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\obj\x86\Release\Animais.exe
+C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\obj\x86\Release\Animais.pdb

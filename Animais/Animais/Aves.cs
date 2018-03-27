@@ -23,7 +23,7 @@ namespace Animais
         }
         public override string ToString()
         {
-            return "Ave {" + "cor da pena=" + corPena + "}";
+            return "Ave {" + "Peso=" + getPeso() + ", idade=" + getIdade() + ", membros=" + getMembros() + "\nCor da pena=" + corPena + "}\n\n";
         }
     }
 }

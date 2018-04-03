@@ -8,3 +8,5 @@ C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais
 C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\bin\Debug\Animais.exe
 C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\bin\Debug\Animais.pdb
 C:\Users\Lucas Cardoso Silva\Google Drive\ETEC\2º Semestre\DS I\Animais\Animais\obj\x86\Debug\Animais.csprojResolveAssemblyReference.cache
+F:\Não retirar\PortableGit\Desenvolvimento-de-Sistemas-I\Animais\Animais\obj\x86\Debug\Animais.exe
+F:\Não retirar\PortableGit\Desenvolvimento-de-Sistemas-I\Animais\Animais\obj\x86\Debug\Animais.pdb

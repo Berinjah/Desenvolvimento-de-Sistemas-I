@@ -1,0 +1,9 @@
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\bin\Debug\Menus.exe
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\bin\Debug\Menus.pdb
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\Menus.exe
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\Menus.pdb
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.frmTeste1.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Menus\Menus\obj\x86\Debug\WindowsFormsApplication1.frmTeste2.resources

@@ -1,0 +1,9 @@
+E:\DS\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+E:\DS\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+E:\DS\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb

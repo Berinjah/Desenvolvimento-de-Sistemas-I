@@ -1,0 +1,9 @@
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\CalculoMediaAluno.frmMedia.resources
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\CalculoMediaAluno.Properties.Resources.resources
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\bin\Debug\CalculoMediaAluno.exe
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\bin\Debug\CalculoMediaAluno.pdb
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\CalculoMediaAluno.exe
+E:\DS\CalculoMediaAluno\CalculoMediaAluno\obj\x86\Debug\CalculoMediaAluno.pdb

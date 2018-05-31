@@ -1,0 +1,25 @@
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmPrincipal.resources
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmPrincipal.resources
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DS\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\DS\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\DS\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\DS gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\DS gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\DS gitar\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\DS gitar\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\DS gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmPrincipal.resources
+E:\DS gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+E:\DS gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache

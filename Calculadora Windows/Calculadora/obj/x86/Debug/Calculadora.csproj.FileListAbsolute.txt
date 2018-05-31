@@ -1,0 +1,26 @@
+E:\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Calculadora C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+E:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+E:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\Calculadora C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+E:\Calculadora C# - Gitar\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Calculadora Windows\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+E:\Calculadora Windows\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+E:\Calculadora Windows\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Calculadora Windows\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Calculadora Windows\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Calculadora Windows\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+E:\Calculadora Windows\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+E:\Calculadora Windows\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache

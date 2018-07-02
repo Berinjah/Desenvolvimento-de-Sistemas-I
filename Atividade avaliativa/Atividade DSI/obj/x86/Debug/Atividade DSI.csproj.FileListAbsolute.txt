@@ -1,0 +1,45 @@
+G:\Atividade DSI\Atividade DSI\bin\Debug\Atividade DSI.exe
+G:\Atividade DSI\Atividade DSI\bin\Debug\Atividade DSI.pdb
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmAdicao.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmBrasil.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmDivisivel.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.FormPrincipal.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmMeses.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmTamanhos.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmTriangulos.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmUmAoCinquenta.resources
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.csproj.GenerateResource.Cache
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.exe
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.pdb
+G:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.csprojResolveAssemblyReference.cache
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.exe
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.pdb
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.csprojResolveAssemblyReference.cache
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmAdicao.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmBrasil.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmDivisivel.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.FormPrincipal.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmMeses.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmTamanhos.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmTriangulos.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmUmAoCinquenta.resources
+D:\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.csproj.GenerateResource.Cache
+D:\Atividade DSI\Atividade DSI\bin\Debug\Atividade DSI.exe
+D:\Atividade DSI\Atividade DSI\bin\Debug\Atividade DSI.pdb
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.exe
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.pdb
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\bin\Debug\Atividade DSI.exe
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\bin\Debug\Atividade DSI.pdb
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmAdicao.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmBrasil.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmDivisivel.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.FormPrincipal.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmMeses.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmTamanhos.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmTriangulos.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\WindowsFormsApplication1.frmUmAoCinquenta.resources
+C:\Users\Lucas Cardoso Silva\Desktop\Backup Pendrive\Atividade DSI\Atividade DSI\obj\x86\Debug\Atividade DSI.csproj.GenerateResource.Cache

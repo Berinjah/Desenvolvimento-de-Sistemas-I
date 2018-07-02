@@ -1,0 +1,9 @@
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csprojResolveAssemblyReference.cache
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.frmCadastroClientes.resources
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.MenuPrincipal.resources
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache
+G:\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe
+G:\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.pdb
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.exe
+G:\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.pdb
